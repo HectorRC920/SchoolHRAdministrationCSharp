@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1wq2s/AUPjEhl2MpdNJPP2ZAQCMRCT7o2uxzfqCUgiaugeYDRdoqLB1/tCDGYnp9KjUZE67LPNnte6JQmLqiUw==",
+  "dgSpecHash": "owRqkWAX/LCcpn0wj1n+F5Nms4lc0Uk1rQTra/c0F4VqB1DSG0f424Pkx7g+lsNV1U3l5P/4w58a0f/WQkrFWw==",
   "success": true,
-  "projectFilePath": "/home/hector/SchoolHRAdministration/SchoolHRAdministration.csproj",
+  "projectFilePath": "/home/hector/SchoolHRAdministrationCSharp/SchoolHRAdministration.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
